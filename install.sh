@@ -1,4 +1,7 @@
 #!/bin/sh
+# Sep 13, 2017 at 22:00
+# Studio Emrys
+
 DocWatchInstall()
 {
 	echo "Verify installation of MySQL..."
